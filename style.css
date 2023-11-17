@@ -1,0 +1,14 @@
+
+   
+   main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 30px;
+   }
+
+   body {
+    background-color: rgb(220, 211, 211);
+   }
+   
+   
